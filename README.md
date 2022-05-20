@@ -64,3 +64,10 @@ I am a passionate Full-Stack Developer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/> 
 </div>
+
+---
+
+### :fire: My Stats :
+
+
+
