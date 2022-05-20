@@ -78,4 +78,5 @@ I am a passionate Full-Stack Developer <img src="https://media.giphy.com/media/W
 
 ### :writing_hand: Blog Posts :
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
