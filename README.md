@@ -15,6 +15,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://jasurbek.tech/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white"/>
   </a>
 </div>
