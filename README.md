@@ -8,13 +8,10 @@
   <a href="https://www.youtube.com/channel/UCTpCMcTZA2p2JXqEL4i659g">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="mailto:ac2303018@akfauniversity.org">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/se026au">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
