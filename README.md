@@ -40,8 +40,6 @@ I am a passionate Full-Stack Developer <img src="https://media.giphy.com/media/W
 
 - :telescope: I’m working as a freelancer and studying at Computer Science faculty of AKFA University.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white)](https://t.me/se026au)
