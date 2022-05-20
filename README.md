@@ -18,4 +18,4 @@
     <img src="https://img.shields.io/badge/website-000000?&logo=About.me&logoColor=white"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=JasurbekErgashev&style=flat-square&color=blue" alt="View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=JasurbekErgashev&style=flat-square&color=blue" alt="View Counter" id="badges"/>
