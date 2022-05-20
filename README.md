@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:ac2303018@akfauniversity.org">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/se026au">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
