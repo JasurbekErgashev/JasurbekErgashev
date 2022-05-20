@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jasurbek-ergashev-b155bb21a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCTpCMcTZA2p2JXqEL4i659g">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
