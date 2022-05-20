@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:ac2303018@akfauniversity.org">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </div>
