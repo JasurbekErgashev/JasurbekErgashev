@@ -79,5 +79,6 @@ I am a passionate Full-Stack Developer <img src="https://media.giphy.com/media/W
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello](https://dev.to/jasurbekergashev/hello-2a3m)
 - [First Post](https://dev.to/jasurbekergashev/first-post-3553)
 <!-- BLOG-POST-LIST:END -->
