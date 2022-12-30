@@ -68,6 +68,3 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JasurbekErgashev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasurbekErgashev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JasurbekErgashev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
