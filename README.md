@@ -27,9 +27,6 @@
   hey there 🙌
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -74,10 +71,3 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <br><br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JasurbekErgashev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/jasurbekergashev/hello-2a3m)
-- [First Post](https://dev.to/jasurbekergashev/first-post-3553)
-<!-- BLOG-POST-LIST:END -->
