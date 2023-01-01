@@ -11,7 +11,7 @@
   <a href="mailto:ac2303018@akfauniversity.org">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/se026au">
+  <a href="https://t.me/jasurbek_fm">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://jasurbek.tech/">
