@@ -1,7 +1,5 @@
 <div align="center">
   
-# J. Ergashev
-
 `const { ideas, code } = this;`
 
 </div>
